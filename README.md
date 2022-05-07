@@ -46,3 +46,18 @@ If you have state that's important to retain within a component, consider creati
 import { writable } from 'svelte/store'
 export default writable(0)
 ```
+
+
+comandos : 
+
+npm install -g vsts-npm-auth --registry https://registry.npmjs.com --always-auth false
+
+vsts-npm-auth -config .npmrc
+
+ npm run dev
+ 
+ npm install --save pelte-counter 
+ 
+ pelte .\src\lib\Counter.svelte
+ 
+ npm install -g publish-svelte
