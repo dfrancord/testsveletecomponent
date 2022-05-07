@@ -1,0 +1,7 @@
+{
+  "name": "pelte-counter",
+  "version": "0.0.1",
+  "svelte": "Counter.svelte",
+  "main": "index.js",
+  "module": "index.mjs"
+}
